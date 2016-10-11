@@ -1,0 +1,51 @@
+body {
+	font-family: courier;
+    background-color: white;
+    height: 350px;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+input {
+	font-family: courier;
+	font-size: large;
+	text-align: center;
+	height: 30px;
+	width: 200px;
+	margin: auto;
+	display: block;
+}
+
+#info {
+	margin: auto;
+	width: 600px;
+    margin-top: 130px;
+}
+
+#background {
+	margin: auto;
+	width: 600px;
+	height: 365px;
+    background-color: lightblue;
+    margin-top: 0px;
+}
+
+.search {
+	padding-top: 13px;
+	margin: auto;
+	width: 550px;
+}
+
+.anagram {
+    background-color: lightgreen !important;
+}
+
+.notanagram {
+    background-color: #ff3232 !important;
+}
